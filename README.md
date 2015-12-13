@@ -17,15 +17,16 @@ Type "guesser" or "codemaker" to make your choice.
 
 As the guesser you need to enter a guess which is a combination of 4 colors. <br>
 The available colors to choose from are: <br>
-R - Red
-G - Green
-B - Blue
-Y - Yellow
-P - Purple
-W - White
-
+<ul>
+  <li>R - Red</li>
+  <li>G - Green</li>
+  <li>B - Blue</li>
+  <li>Y - Yellow</li>
+  <lu>P - Purple</lu>
+  <li>W - White</li>
+</ul>
 Enter 4(!) letters(case insensitive) corresponding to a specific color 
-separated by a single space. For example:
+separated by a single space. For example: <br>
 r g b y
 
 Read the feedback and repeat until you win or run out of turns(12).
