@@ -22,7 +22,7 @@ The available colors to choose from are: <br>
   <li>G - Green</li>
   <li>B - Blue</li>
   <li>Y - Yellow</li>
-  <lu>P - Purple</lu>
+  <li>P - Purple</li>
   <li>W - White</li>
 </ul>
 Enter 4(!) letters(case insensitive) corresponding to a specific color 
